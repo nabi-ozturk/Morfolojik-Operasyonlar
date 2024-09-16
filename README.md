@@ -1,0 +1,2 @@
+# Morfolojik Operasyonlar
+ 
